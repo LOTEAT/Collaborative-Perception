@@ -1,0 +1,7 @@
+docutils==0.20.1
+myst-parser==2.0.0
+sphinx==7.1.2
+sphinx-copybutton==0.5.2
+sphinx_markdown_tables==0.0.17
+sphinx_rtd_theme==2.0.0 
+recommonmark==0.7.1
